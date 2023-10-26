@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LuseBiswas/Multi_QR/static/css/main.e6c13ad2.css",
+    "main.js": "/LuseBiswas/Multi_QR/static/js/main.9487b9af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/LuseBiswas/Multi_QR/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/LuseBiswas/Multi_QR/index.html",
+    "main.e6c13ad2.css.map": "/LuseBiswas/Multi_QR/static/css/main.e6c13ad2.css.map",
+    "main.9487b9af.js.map": "/LuseBiswas/Multi_QR/static/js/main.9487b9af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/LuseBiswas/Multi_QR/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9487b9af.js"
+  ]
+}
